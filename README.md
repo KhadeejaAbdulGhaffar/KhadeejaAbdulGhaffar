@@ -47,12 +47,6 @@ I have attended the robotics course at my school in which we learnt to program r
 ---
 [![](https://visitcount.itsvg.in/api?id=KhadeejaAbdulGhaffar&icon=0&color=10)](https://visitcount.itsvg.in)
 
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KhadeejaAbdulGhaffar/KhadeejaAbdulGhaffar/output/snake.svg" alt="Snake animation" />
-
 ### Media
 
 <div align="left">
